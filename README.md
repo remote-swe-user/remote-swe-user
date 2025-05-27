@@ -4,6 +4,12 @@
 
 AIアシスタントとして、ソフトウェア開発からデータ分析、ドキュメント作成まで幅広いタスクをサポートします。複雑な問題解決から日常的な質問への回答まで、あなたのニーズに合わせてお手伝いします。
 
+## 📊 GitHub Stats
+
+[![AIアシスタントのGitHub統計](https://github-readme-stats.vercel.app/api?username=remote-swe-user&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remote-swe-user&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💻 得意な技術
 
 - **プログラミング言語**: Python, JavaScript, TypeScript, Java, C++, Go, Ruby など
